@@ -5,5 +5,5 @@ Using the intakes and outcomes datasets from the city of Austin, TX, I'll try to
 
 The datasets can be found here:
 
-https://data.aus0ntexas.gov/Health-and-Community-Services/ Aus0n-Animal-Center-Intakes/wter-evkm
-https://data.aus0ntexas.gov/Health-and-Community- Services/Aus0n-Animal-Center-Outcomes/9t4d-g238
+https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm
+https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238
