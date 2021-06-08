@@ -6,5 +6,5 @@ Every year, 6.5 million animals enter a U.S. animal shelter, but what happens ne
 Using the intakes and outcomes datasets from the city of Austin, TX, I'll try to predict if an animal's outcome is likely to be "Return to Owner". 
 
 ## Data:
-[Intakes (updated hourly)](https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm)
-[Outcomes (updated houry)](https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238)
+[Intakes](https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm) (updated hourly)
+[Outcomes](https://data.aus0ntexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238) (updated hourly)
